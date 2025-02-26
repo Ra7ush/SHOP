@@ -1,0 +1,32 @@
+@media only screen and (min-width: 1301px){
+    .shop-container{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        gap: 1.3em;
+        padding: 50px 200px;
+    }
+    .menu-btn{
+        display: block;
+    }
+    .navigation{
+        padding: 75px 200px 20px 200px;
+    }
+    .navigation nav ul li a{
+        text-decoration: none;
+        color: #484f56;
+        font-size: 0.80em;
+    }
+    .navigation h1{
+        font-size: 3em;
+    }
+    .contianer h2 a{
+        font-size: 0.50em;
+        line-height: 25px;
+    }
+  .contianer h2{
+    margin-bottom: 20px;
+    padding-bottom: 70px;
+
+    }
+
+}
